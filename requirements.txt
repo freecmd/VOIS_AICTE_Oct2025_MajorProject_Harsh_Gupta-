@@ -1,0 +1,2 @@
+# Removed by request — project will contain only the notebook and original dataset
+# Original content was a requirements.txt. Deleted per user instruction.
